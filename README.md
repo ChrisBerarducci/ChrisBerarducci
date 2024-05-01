@@ -1,0 +1,1 @@
+- I am Chris Berarducci and I am a Data Science student at the University of Pittsburgh with minors in computer science and hopefully cybersecurity.
